@@ -1,0 +1,7 @@
+credentials.json
+*.pdf
+__pycache__
+**/*.pyc
+
+# virtualenv
+env
